@@ -59,7 +59,7 @@
 
 - 📱 Built with Flutter for cross-platform mobile support
 - 🔗 Node.js + Express REST API backend
-- 🗄️ PostgreSQL database with Firebase auth & notifications
+- 🗄️ PostgreSQL database with High security & Authentications
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thatsaryan/Charusat-Placement-setu.git)
 
