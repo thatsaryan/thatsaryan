@@ -1,24 +1,81 @@
-<h1 align="center">Hi 👋, I'm Aryan Maheta</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatsaryan&label=Profile%20views&color=0e75b6&style=flat" alt="thatsaryan" /> </p>
+# Hey there, I'm Aryan Maheta 👋
 
-- 🔭 I’m currently working on [CHARUSAT Placement SETU App](https://github.com/thatsaryan/Charusat-Placement-setu.git)
+**Full Stack Developer · Flutter Enthusiast · AI Explorer**
 
-- 🌱 I’m currently learning **Flutter, Node.js, Langchain & AgenticAI**
+*Building things that matter, one commit at a time.*
 
-- 📫 How to reach me **aryanmaheta790@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-maheta)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mahetaaryan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanmaheta790@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=thatsaryan&style=for-the-badge&color=0e75b6)](https://github.com/thatsaryan)
 
-- ⚡ Fun fact **I think I have a great humour.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryan-maheta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-maheta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahetaaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahetaaryan" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thatsaryan&show_icons=true&locale=en&layout=compact" alt="thatsaryan" /></p>
+- 🔭 Currently building **[CHARUSAT Placement SETU App](https://github.com/thatsaryan/Charusat-Placement-setu.git)** — a placement portal for my university
+- 🌱 Diving deep into **Flutter · Node.js · LangChain · Agentic AI**
+- 💡 Passionate about crafting seamless full-stack experiences and exploring the edge of AI
+- ⚡ Fun fact: I genuinely believe I'm funnier than I am
 
+---
+
+## 🛠️ Tech Stack
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Database & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Currently Exploring**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+---
+
+## 📌 Featured Project
+
+### 🎓 CHARUSAT Placement SETU
+> A full-stack placement portal designed to bridge students and recruiters at CHARUSAT University.
+
+- 📱 Built with Flutter for cross-platform mobile support
+- 🔗 Node.js + Express REST API backend
+- 🗄️ PostgreSQL database with Firebase auth & notifications
+
+[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thatsaryan/Charusat-Placement-setu.git)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatsaryan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thatsaryan&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
